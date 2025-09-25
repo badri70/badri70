@@ -40,7 +40,7 @@
 
 ### 🌐 Связь со мной  
 <p align="left">
-  <a href="https://www.linkedin.com/in/nazhmudinov-badriddin" target="_blank">
+  <a href="https://www.linkedin.com/in/badriddin-nazhmudinov-285720270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://t.me/nb_bits" target="_blank">
